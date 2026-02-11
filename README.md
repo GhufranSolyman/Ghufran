@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, 👋 I'm Ghufran solyman
+# Hello, 👋 I'm Ghufran Solyman
 
 ## 💫 About Me:
 I'm a passionate **Full-Stack Mobile Developer** specializing in **Flutter** and **Laravel** with a keen interest in building scalable applications and high-performance APIs. I love solving real-world problems and continuously strive to improve my skills.
