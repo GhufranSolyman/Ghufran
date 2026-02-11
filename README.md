@@ -26,5 +26,5 @@
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn**: [رابط حسابك هنا]
-- **Email**: [إيميلك هنا]
+- **LinkedIn**: [www.linkedin.com/in/ghufran-solyman]
+- **Email** [Ghufransolyman@gmail.com]
