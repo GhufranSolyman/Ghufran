@@ -1,2 +1,30 @@
-# Ghufran
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Flutter</title><path d="M14.314 0L2.3 12 6 15.7 21.684.013h-7.357zm.014 11.072L7.857 17.53l6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.37z"/></svg>
+# Hi there, I'm [اسمك هنا] 👋
+
+### 👨‍💻 About Me
+- 📱 I specialize in building cross-platform mobile applications using **Flutter**.
+- 🛠️ Expert in crafting robust Backends & RESTful APIs using **Laravel**.
+- 🔥 Experienced in **Firebase** for real-time databases, authentication, and cloud functions.
+- 🏗️ I love architecting clean, maintainable code and scalable system designs.
+
+---
+
+### 🚀 Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend (Mobile)** | Flutter, Dart, State Management (Provider/Bloc/GetX) |
+| **Backend** | Laravel, PHP, RESTful APIs |
+| **Database & Cloud** | MySQL, Firebase, Firestore |
+| **Tools** | Git & GitHub, Postman, Docker |
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+### 📫 How to reach me:
+- **LinkedIn**: [رابط حسابك هنا]
+- **Email**: [إيميلك هنا]
