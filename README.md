@@ -1,4 +1,4 @@
-# Hi there, I'm [اسمك هنا] 👋
+# Hi there, I'm [Ghufran] 👋
 
 ### 👨‍💻 About Me
 - 📱 I specialize in building cross-platform mobile applications using **Flutter**.
